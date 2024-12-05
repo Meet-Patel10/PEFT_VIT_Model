@@ -1,0 +1,14 @@
+PyTorch
+peft
+pandas 
+pillow 
+pyarrow
+torch 
+torchvision 
+transformers
+optuna
+scikit-learn 
+scipy
+skorch
+typing_extensions
+protobuf
